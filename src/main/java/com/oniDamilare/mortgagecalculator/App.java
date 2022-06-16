@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class App {
     public static void main(String[] args) {
         System.out.println("WELCOME TO THE MORTGAGE CALCULATOR");
+        System.out.println("This application helps to calculate monthly mortgage repayment");
         //Accept input parameters from users
         Scanner inputParam = new Scanner(System.in);
         System.out.print("Enter the Principal Amount: ");
